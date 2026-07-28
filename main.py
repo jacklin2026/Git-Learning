@@ -66,4 +66,6 @@ def main():
             print("\n❌ 无效的输入，请输入 1 到 4 之间的数字。")
 
 if __name__ == "__main__":
+    print("start")
     main()
+    print("end")
