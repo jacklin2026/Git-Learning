@@ -67,5 +67,7 @@ def main():
 
 if __name__ == "__main__":
     print("start")
+    # 学习操作
     main()
+    print("5. 删除任务")
     print("end")
